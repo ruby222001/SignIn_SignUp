@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDMwyObOGkxs-w89YVPmfU_LE2_ewBoYCU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000430522028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.travelnest.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>travelnest-f60d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelnest-f60d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000430522028:ios:a7217891b2cf8c1307d909</string>
+</dict>
+</plist>

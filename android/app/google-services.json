@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000430522028",
+    "project_id": "travelnest-f60d5",
+    "storage_bucket": "travelnest-f60d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000430522028:android:2cf72627e01ea55607d909",
+        "android_client_info": {
+          "package_name": "com.example.travelnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wkCSikaTXj9UGmUZHDcTzjGNrzzZUPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
